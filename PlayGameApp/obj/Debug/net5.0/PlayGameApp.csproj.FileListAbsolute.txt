@@ -1,0 +1,16 @@
+C:\Madhu\Exams\Ravi\PlayGameApp\PlayGameApp\bin\Debug\net5.0\PlayGameApp.exe
+C:\Madhu\Exams\Ravi\PlayGameApp\PlayGameApp\bin\Debug\net5.0\PlayGameApp.deps.json
+C:\Madhu\Exams\Ravi\PlayGameApp\PlayGameApp\bin\Debug\net5.0\PlayGameApp.runtimeconfig.json
+C:\Madhu\Exams\Ravi\PlayGameApp\PlayGameApp\bin\Debug\net5.0\PlayGameApp.runtimeconfig.dev.json
+C:\Madhu\Exams\Ravi\PlayGameApp\PlayGameApp\bin\Debug\net5.0\PlayGameApp.dll
+C:\Madhu\Exams\Ravi\PlayGameApp\PlayGameApp\bin\Debug\net5.0\ref\PlayGameApp.dll
+C:\Madhu\Exams\Ravi\PlayGameApp\PlayGameApp\bin\Debug\net5.0\PlayGameApp.pdb
+C:\Madhu\Exams\Ravi\PlayGameApp\PlayGameApp\obj\Debug\net5.0\PlayGameApp.csproj.AssemblyReference.cache
+C:\Madhu\Exams\Ravi\PlayGameApp\PlayGameApp\obj\Debug\net5.0\PlayGameApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Madhu\Exams\Ravi\PlayGameApp\PlayGameApp\obj\Debug\net5.0\PlayGameApp.AssemblyInfoInputs.cache
+C:\Madhu\Exams\Ravi\PlayGameApp\PlayGameApp\obj\Debug\net5.0\PlayGameApp.AssemblyInfo.cs
+C:\Madhu\Exams\Ravi\PlayGameApp\PlayGameApp\obj\Debug\net5.0\PlayGameApp.csproj.CoreCompileInputs.cache
+C:\Madhu\Exams\Ravi\PlayGameApp\PlayGameApp\obj\Debug\net5.0\PlayGameApp.dll
+C:\Madhu\Exams\Ravi\PlayGameApp\PlayGameApp\obj\Debug\net5.0\ref\PlayGameApp.dll
+C:\Madhu\Exams\Ravi\PlayGameApp\PlayGameApp\obj\Debug\net5.0\PlayGameApp.pdb
+C:\Madhu\Exams\Ravi\PlayGameApp\PlayGameApp\obj\Debug\net5.0\PlayGameApp.genruntimeconfig.cache
